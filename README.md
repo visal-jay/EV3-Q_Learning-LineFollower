@@ -29,3 +29,7 @@ After starting the script, the EV3-QLineFollower will begin to learn how to foll
 ## Customization
 
 Feel free to dive into the code and tweak parameters like the learning rate (ALPHA), discount factor (GAMMA), or exploration rate (EPSILON), decaying rate (TEMP) to see how they affect the robot's learning process.
+
+## Demo
+https://github.com/visal-jay/EV3-Q_Learning-LineFollower/assets/73787312/c41079d9-bd0d-4d28-a769-1dd8bf13a95d
+
