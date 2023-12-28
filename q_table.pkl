@@ -1,0 +1,23 @@
+{
+ (True, 'BLACK', 'forward'): 20.55706140513248, 
+ (True, 'WHITE', 'forward'): 21.17206221053329, 
+ (True, 'MIDDLE', 'turn_left'): 22.43900568829215, 
+ (True, 'BLACK', 'turn_left'): 22.68566643648466, 
+ (True, 'MIDDLE', 'turn_right'): 22.73884801245481, 
+ (True, 'WHITE', 'turn_right'): 24.06140014904898, 
+ (True, 'MIDDLE', 'forward'): 31.43524063992718, 
+ (True, 'WHITE', 'turn_left'): 38.02100645062739, 
+ (True, 'BLACK', 'turn_right'): 38.33588685377038,
+
+ (False, 'WHITE', 'forward'): 3.378348853269763, 
+ (False, 'BLACK', 'forward'): 5.196447143577474, 
+ (False, 'MIDDLE', 'turn_right'): 8.331101397066854, 
+ (False, 'MIDDLE', 'turn_left'): 8.905024969028108, 
+ (False, 'BLACK', 'turn_right'): 12.63377730160373, 
+ (False, 'WHITE', 'turn_left'): 15.81452628274861, 
+ (False, 'MIDDLE', 'forward'): 21.78702525437207, 
+ (False, 'WHITE', 'turn_right'): 35.22978025650964, 
+ (False, 'BLACK', 'turn_left'): 35.83281032543897
+ }
+
+ 
